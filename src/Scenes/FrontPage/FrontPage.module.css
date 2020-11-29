@@ -1,0 +1,14 @@
+.FrontPage{
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    align-items: center;
+}
+
+.header{
+    margin: 60px auto;
+}
+.button{
+    margin: 25px auto;
+    width: 4%;
+}
